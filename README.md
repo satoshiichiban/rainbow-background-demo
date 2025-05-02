@@ -25,17 +25,9 @@ CSSだけで作った、動的なレインボー背景＋テキスト画像デ�
 
 ---
 
-## スクリーンショット
-
-<p align="center">
-  <img src="./screenshot.png" alt="スクリーンショット" width="80%">
-</p>
-
----
-
 ##  使い方
 
-1. このリポジトリをクローン
+- このリポジトリをクローン
 
 ```bash
 git clone https://github.com/satoshiichiban/rainbow-background-demo.git
