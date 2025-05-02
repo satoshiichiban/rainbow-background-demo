@@ -1,7 +1,7 @@
 # Rainbow Background Demo
 
 <p align="center">
-  <img src="https://github.com/satoshiichiban/rainbow-background-demo/blob/main/images/rainbow-background-demo.png?raw=true" width="100%">
+  <img src="images/rainbow-background-demo.png" width="100%">
 </p>
 
 CSSだけで作った、動的なレインボー背景＋テキスト画像デモです。  
