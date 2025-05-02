@@ -1,5 +1,9 @@
 # Rainbow Background Demo
 
+<p align="center">
+  <img src="images/rainbow-background-demo.png" width="700" alt="レインボー背景デモ画像">
+</p>
+
 CSSだけで作った、動的なレインボー背景＋テキスト画像デモです。  
 鮮やかでトップページの黒い背景に重ねたり、アクセント用途を想定しています！
 
